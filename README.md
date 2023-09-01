@@ -9,12 +9,8 @@
 
 - 📫 How to reach me **szymonekokot@gmail.com**
 
-<p>
-My name is Szymon, and I'm from Poland. I'm an organized and calm person, with great problem solving skills which are essential for a self-learner. Always paying attention to detail and trying to do my best to find the best solution fastly adapting to the situation. I sometimes struggle with having initiative. I prefer listening rather than talking and thanks to that my input is meaningful.
-</p>
-<p>
-I build a variety of personal project as I was learning Arduino, apps & games development in Unity and web development on my own. I complimented that starting a degree in computer science at the Polytechninc University of Madrid. There I learned Java, but also how to use an Unix machine learning c and bash. I was also taught about SQL databases. After completing one year, I started looking for some faster way to grow. So I decided to work with OXYGEN, where I'm having my chance to get valuable experience working in a team with senior developers, while creating a landing page and a dashboard for a hotel. Working with a SCRUM metodology and weekly sprints, I'm learning new technologies like TypeScript or PHP while practicing those previously learned.
-</p>
+<p>My name is Szymon, and I'm from Poland. I'm an organized and calm person, with great problem solving skills which are essential for a self-learner. Always paying attention to detail and trying to do my best to find the best solution fastly adapting to the situation. I sometimes struggle with having initiative. I prefer listening rather than talking and thanks to that my input is meaningful.</p>
+<p>I build a variety of personal project as I was learning Arduino, apps & games development in Unity and web development on my own. I complimented that starting a degree in computer science at the Polytechninc University of Madrid. There I learned Java, but also how to use an Unix machine learning c and bash. I was also taught about SQL databases. After completing one year, I started looking for some faster way to grow. So I decided to work with OXYGEN, where I'm having my chance to get valuable experience working in a team with senior developers, while creating a landing page and a dashboard for a hotel. Working with a SCRUM metodology and weekly sprints, I'm learning new technologies like TypeScript or PHP while practicing those previously learned.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
